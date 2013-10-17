@@ -94,7 +94,7 @@ Each entry in the commit log has it's own unique hash key. If you ever need to r
 roll back to a previous commit, you'll identify it by this key. Oftentimes you won't have to
 refer to the entire key; the first 7 or so characters are enough to identify the commit:
 
-```
+```bash
 # These all refer to the same commit
 $ git show 1c002dd4b536e7479fe34593e72e6c6c1819e53b
 $ git show 1c002dd4b536e7479f
@@ -106,20 +106,45 @@ Command-line Basics
 
 ### Cloning a repository
 
+```bash
+$ cd /path/to/your/projects/dir
+$ git clone https://github.com/RatioInteractive/CoolProjectBro.git
+$ cd ./CoolProjectBro
+```
+
 ### Keeping your repository in sync
+
+```bash
+$ git pull origin master
+```
 
 ### Staging files for commit
 
+```bash
+$ git add /an/entire/directory
+$ git rm -r /an/unwanted/directory
+$ git status
+```
+
 ### Committing files locally
 
-* **add**
-* **rm**
+```bash
+$ git commit -m 'Fix all the things!'
+```
 
 ### Reviewing your commit history
 
-### Merging and resolving conflicts
+```bash
+$ git log
+$ get log --pretty=oneline
+```
 
 ### Pushing your files to the remote repository
 
-Further Reading
----------------
+```bash
+$ git push origin master
+```
+
+## Merging and Resolving Conflicts
+
+## Branching

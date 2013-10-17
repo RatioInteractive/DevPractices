@@ -6,7 +6,7 @@ Installing Git and GitHub
 
 ### Get your account
 
-All of Ratio's projects are stored on [https://github.com/](GitHub). Signing
+All of Ratio's projects are stored on [GitHub](https://github.com/). Signing
 up for an account is free, and requires only your email address. Once you have
 an account you'll need to contact your practice lead to get added to the 
 Ratio GitHub profile before you can start cloning and commiting to Ratio projects.
@@ -21,7 +21,7 @@ account from your development machine. Configuring and registering your SSH keys
 with GitHub is outside the scope of this doc, but fortunately GitHub has a great
 reference for Windows, Mac and Linux users:
 
-**Generating SSH Keys for GitHub:** https://help.github.com/articles/generating-ssh-keys
+* [Generating SSH Keys for GitHub](https://help.github.com/articles/generating-ssh-keys)
 
 ### Download the desktop client
 
@@ -30,8 +30,8 @@ clients. Not only will this give you a friendly GUI to get started with,
 it will also install the command-line tools you need to run Git in PowerShell
 or Terminal.
 
-**Windows:** [http://windows.github.com/](GitHub for Windows Desktop Client)
-**OS X:** [http://mac.github.com/](GitHub for Mac Desktop Client)
+* [GitHub for Windows Desktop Client](http://windows.github.com/)
+* [GitHub for Mac Desktop Client](http://mac.github.com/)
 
 Further Reading
 ---------------
@@ -40,9 +40,9 @@ Git is a pretty intuitive version control system, but just like any other techno
 getting comfortable with it requires a bit of experimentation and research. These
 references will help to answer questions you might have after reading these docs.
 
-**Git official site (Git-SCM):** http://git-scm.com
-**In-browser command-line tutorial:** http://try.github.io
-**GitHub Help pages:** https://help.github.com
+* [Git official site (Git-SCM)](http://git-scm.com)
+* [In-browser command-line tutorial](http://try.github.io)
+* [GitHub Help pages](https://help.github.com)
 
 Terminology
 -----------
@@ -50,8 +50,8 @@ Terminology
 ### Repository
 
 Git is a distributed version control system, which means that every project clone
-is its own fully-qualified repository. By convention, the repository on GitHub under
-the [https://github.com/RatioInteractive](RatioInteractive) account is the main
+is its own fully-qualified repository. Usually the repository on GitHub under
+the [RatioInteractive](https://github.com/RatioInteractive) account is the main
 repository, and should be kept pristine.
 
 ### Remotes

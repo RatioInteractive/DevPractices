@@ -6,7 +6,7 @@ _Anyone should be able to read the subject and understand how the product will b
 
 #### Basic structure
 
-A **[role]** can **[act]** for **[reason]**
+A **\<role\>** can **\<act\>** for **[reason]**
 
 * **REQ:** _a fact about the feature_
 * **QUESTION:** _an unknown about the feature_
@@ -21,8 +21,8 @@ Example:
 
 **REQ:** Speed will be determined as kilobytes per second and shown with label (Kbps).  
 **REQ:** Estimated completion time will be calculated by dividing remaining kilobytes by Kbps and shown in this format HH:MM:SS.  
-- If less than 60 minutes, hide hours.  
-- If less than 60 seconds, hide minutes.  
+-- If less than 60 minutes, hide hours.  
+-- If less than 60 seconds, hide minutes.  
 **REQ:** Completion estimate will update every 2 seconds.  
 **REQ:** a 3 second delay before initially showing the estimate.
 

@@ -6,7 +6,7 @@ _Anyone should be able to read the subject and understand how the product will b
 
 #### Basic structure
 
-A **<role>** can **<act>** for **[reason]**
+A **[role]** can **[act]** for **[reason]**
 
 * **REQ:** _a fact about the feature_
 * **QUESTION:** _an unknown about the feature_
@@ -37,4 +37,4 @@ Additional info:
 ----
 * This format is taken from Mike Cohn's book [User Stories Applied]
 (http://www.mountaingoatsoftware.com/agile/user-stories).
-* Use the [INVEST mnemonic](http://en.wikipedia.org/wiki/INVEST_(mnemonic)) to evaluate story fitness.
+* Use the [INVEST mnemonic](http://en.wikipedia.org/wiki/INVEST_(mnemonic) to evaluate story fitness.

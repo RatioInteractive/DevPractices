@@ -21,7 +21,7 @@ Entity Relationship Diagram Basics
 [Stories](../master/pages/stories.md)  
 Sprint Planning  
 Estimation  
-Defects  
+[Defects](../master/pages/defects.md)  
 Bug Triage  
 Retrospectives  
 Postmortems  

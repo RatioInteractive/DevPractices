@@ -109,5 +109,6 @@ Golden Rule of Code
 ---
  * Write the simplest, prettiest, most easy-to-understand code as you can while still getting the job done. Avoid hacks and shortcuts if they lead to poorly-maintainable code.
 
- 
- 
+References
+---
+[Android Source Code Style Guidelines](http://source.android.com/source/code-style.html)

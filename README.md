@@ -13,6 +13,7 @@ Test Driven Development
 Logic Diagram Basics  
 Sequence Diagram Basics  
 Entity Relationship Diagram Basics  
+[Android Coding Guidelines](../master/pages/android.md)  
 
 
 #### Product Development:

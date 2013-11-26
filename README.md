@@ -14,6 +14,9 @@ Logic Diagram Basics
 Sequence Diagram Basics  
 Entity Relationship Diagram Basics  
 [Android Coding Guidelines](../master/android/code_guidelines.md)  
+iOS Coding Guidelines  
+Windows Coding Guidelines  
+Web Coding Guidelines  
 
 
 #### Product Development:

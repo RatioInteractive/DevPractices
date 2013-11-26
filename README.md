@@ -13,10 +13,10 @@ Test Driven Development
 Logic Diagram Basics  
 Sequence Diagram Basics  
 Entity Relationship Diagram Basics  
-[Android Coding Guidelines](../master/android/code_guidelines.md)  
-iOS Coding Guidelines  
-Windows Coding Guidelines  
-Web Coding Guidelines  
+[Android Coding Guidelines](../master/pages/android/code_guidelines.md)  
+[iOS Coding Guidelines](../master/pages/ios/code_guidelines.md)  
+[Windows Coding Guidelines](../master/pages/windows/code_guidelines.md)  
+[Web Coding Guidelines](../master/pages/web/code_guidelines.md)  
 
 
 #### Product Development:

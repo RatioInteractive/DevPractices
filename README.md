@@ -33,7 +33,7 @@ Postmortems
 
 
 #### Design Guidelines
-[Android Design Guidelines](../master/pages/android/design_guidelines.md)
-[iOS Design Guidelines](../master/pages/ios/design_guidelines.md)
-[Windows Design Guidelines](../master/pages/windows/design_guidelines.md)
-[Web Design Guidelines](../master/pages/web/design_guidelines.md)
+[Android Design Guidelines](../master/pages/android/design_guidelines.md)  
+[iOS Design Guidelines](../master/pages/ios/design_guidelines.md)  
+[Windows Design Guidelines](../master/pages/windows/design_guidelines.md)  
+[Web Design Guidelines](../master/pages/web/design_guidelines.md)  

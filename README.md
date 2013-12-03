@@ -16,7 +16,8 @@ Entity Relationship Diagram Basics
 [Android Coding Guidelines](../master/pages/android/code_guidelines.md)  
 [iOS Coding Guidelines](../master/pages/ios/code_guidelines.md)  
 [Windows Coding Guidelines](../master/pages/windows/code_guidelines.md)  
-[Web Coding Guidelines](../master/pages/web/code_guidelines.md)  
+[Web Coding Guidelines](../master/pages/web/code_guidelines.md)
+
 
 
 #### Product Development:
@@ -28,3 +29,11 @@ Estimation
 Bug Triage  
 Retrospectives  
 Postmortems  
+
+
+
+#### Design Guidelines
+[Android Design Guidelines](../master/pages/android/design_guidelines.md)
+[iOS Design Guidelines](../master/pages/ios/design_guidelines.md)
+[Windows Design Guidelines](../master/pages/windows/design_guidelines.md)
+[Web Design Guidelines](../master/pages/web/design_guidelines.md)

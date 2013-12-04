@@ -13,9 +13,9 @@ expressed in dp(Density-pixels) instead of pixels.  Read the "Must reads" below
 for more info on this.
 
 Must reads:  
-[Iconography](http://developer.android.com/design/style/iconography.html)
-[Metrics & Grids](http://developer.android.com/design/style/metrics-grids.html)
-[Device Fragmentation](http://developer.android.com/about/dashboards/index.html)
+[Iconography](http://developer.android.com/design/style/iconography.html)  
+[Metrics & Grids](http://developer.android.com/design/style/metrics-grids.html)  
+[Device Fragmentation](http://developer.android.com/about/dashboards/index.html)  
 
 
 File naming conventions
@@ -27,12 +27,12 @@ provide 5 different sizes of each asset.  For example, say we have an asset
 called "my_launcher.png".  Android requires that we place the assets in a 
 specific folder structure as follows:
 
-res/
-	drawable-mdpi/my_launcher.png  
-	drawable-hdpi/my_launcher.png  
-	drawable-xhdpi/my_launcher.png  
-	drawable-xxhdpi/my_launcher.png  
-	drawable-xxxhdpi/my_launcher.png  
+res/  
+		drawable-mdpi/my_launcher.png  
+		drawable-hdpi/my_launcher.png  
+		drawable-xhdpi/my_launcher.png  
+		drawable-xxhdpi/my_launcher.png  
+		drawable-xxxhdpi/my_launcher.png  
 	
 Other file naming rules:
 * No spaces allowed in file names
@@ -40,12 +40,12 @@ Other file naming rules:
 * No special characters other than underscores allowed
 * File names may not begin with numbers
 
-Example suggested file names (view_specificasset_state):
-videoplayer_playbtn_normal.png
-videoplayer_playbtn_pressed.png
-videoplayer_playbtn_focused.png
-videoplayer_playbtn_disabled.png
-videoplayer_playbtn_disabled_focused.png
+Example suggested file names (view_specificasset_state):  
+videoplayer_playbtn_normal.png  
+videoplayer_playbtn_pressed.png  
+videoplayer_playbtn_focused.png  
+videoplayer_playbtn_disabled.png  
+videoplayer_playbtn_disabled_focused.png  
 
 
 Other Considerations

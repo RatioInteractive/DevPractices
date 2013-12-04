@@ -27,7 +27,7 @@ provide 5 different sizes of each asset.  For example, say we have an asset
 called "my_launcher.png".  Android requires that we place the assets in a 
 specific folder structure as follows:
 
-> res/  
+res/  
 > 	drawable-mdpi/my_launcher.png  
 > 	drawable-hdpi/my_launcher.png  
 > 	drawable-xhdpi/my_launcher.png  

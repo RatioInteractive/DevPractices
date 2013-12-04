@@ -28,11 +28,11 @@ called "my_launcher.png".  Android requires that we place the assets in a
 specific folder structure as follows:
 
 res/  
-> 	drawable-mdpi/my_launcher.png  
-> 	drawable-hdpi/my_launcher.png  
-> 	drawable-xhdpi/my_launcher.png  
-> 	drawable-xxhdpi/my_launcher.png  
-> 	drawable-xxxhdpi/my_launcher.png  
+&ensp;&ensp;drawable-mdpi/my_launcher.png  
+&ensp;&ensp;drawable-hdpi/my_launcher.png  
+&ensp;&ensp;drawable-xhdpi/my_launcher.png  
+&ensp;&ensp;drawable-xxhdpi/my_launcher.png  
+&ensp;&ensp;drawable-xxxhdpi/my_launcher.png  
 	
 Other file naming rules:
 * No spaces allowed in file names

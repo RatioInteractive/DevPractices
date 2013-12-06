@@ -12,11 +12,12 @@ different device sizes and screen densities.  Because of this, Redlines should b
 expressed in dp(Density-pixels) instead of pixels.  Read the "Must reads" below
 for more info on this.
 
-Must reads:  
+**Must reads:**  
 [Iconography](http://developer.android.com/design/style/iconography.html)  
 [Metrics & Grids](http://developer.android.com/design/style/metrics-grids.html)  
 [Device Fragmentation](http://developer.android.com/about/dashboards/index.html)  
   
+**Asset Sizing Guide:**  
 ![Asset Sizing Guide](http://developer.android.com/design/media/devices_displays_density@2x.png "Asset Sizing Guide")
 ** tvdpi should be scaled at 1.33x and is ~213DPI
 
@@ -38,13 +39,13 @@ res/
 &ensp;&ensp;drawable-xxhdpi/my_launcher.png  
 &ensp;&ensp;drawable-xxxhdpi/my_launcher.png  
 	
-Other file naming rules:
+**Other file naming rules:**  
 * No spaces allowed in file names
 * No capital letters allowed
 * No special characters other than underscores allowed
 * File names may not begin with numbers
 
-Example suggested file names (view_specificasset_state):  
+**Example suggested file names (view_specificasset_state):**  
 videoplayer_playbtn_normal.png  
 videoplayer_playbtn_pressed.png  
 videoplayer_playbtn_focused.png  

@@ -16,7 +16,7 @@ Entity Relationship Diagram Basics
 [Android Coding Guidelines](../master/pages/android/code_guidelines.md)  
 [iOS Coding Guidelines](../master/pages/ios/code_guidelines.md)  
 [Windows Coding Guidelines](../master/pages/windows/code_guidelines.md)  
-[Web Coding Guidelines](../master/pages/web/code_guidelines.md)
+[Web Coding Guidelines](../master/pages/web/code_guidelines.md)  
 [Android Dev Environment Setup on Ubuntu](../master/pages/android/android_ubuntu_setup.md)
 
 

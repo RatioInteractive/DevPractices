@@ -18,7 +18,7 @@ for more info on this.
 [Device Fragmentation](http://developer.android.com/about/dashboards/index.html)  
   
 **Asset Sizing Guide:**  
-![Asset Sizing Guide](http://developer.android.com/design/media/devices_displays_density.png "Asset Sizing Guide")
+![Asset Sizing Guide](http://developer.android.com/design/media/devices_displays_density@2x.png "Asset Sizing Guide")
 ** tvdpi should be scaled at 1.33x and is ~213DPI
 
 

@@ -16,6 +16,9 @@ Must reads:
 [Iconography](http://developer.android.com/design/style/iconography.html)  
 [Metrics & Grids](http://developer.android.com/design/style/metrics-grids.html)  
 [Device Fragmentation](http://developer.android.com/about/dashboards/index.html)  
+  
+![Asset Sizing Guide](http://developer.android.com/design/media/devices_displays_density@2x.png "Asset Sizing Guide")
+** tvdpi should be scaled at 1.33x and is ~213DPI
 
 
 File naming conventions
@@ -23,12 +26,13 @@ File naming conventions
 
 Ideally, any revisions of assets are delivered as a complete package in a .zip 
 folder called "res.zip".  In order to support all screen densities, we need to 
-provide 5 different sizes of each asset.  For example, say we have an asset
+provide 6 different sizes of each asset.  For example, say we have an asset
 called "my_launcher.png".  Android requires that we place the assets in a 
 specific folder structure as follows:
 
 res/  
 &ensp;&ensp;drawable-mdpi/my_launcher.png  
+&ensp;&ensp;drawable-tvdpi/my_launcher.png  
 &ensp;&ensp;drawable-hdpi/my_launcher.png  
 &ensp;&ensp;drawable-xhdpi/my_launcher.png  
 &ensp;&ensp;drawable-xxhdpi/my_launcher.png  

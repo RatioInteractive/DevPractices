@@ -24,7 +24,7 @@ Entity Relationship Diagram Basics
 #### Product Development:
 [Standups](../master/pages/standups.md)  
 [Stories](../master/pages/stories.md)  
-Sprint Planning  
+[Backlog Management + Sprint Planning](../master/pages/sprint_planning.md)  
 [Estimation](../master/pages/estimation.md)  
 [Defects](../master/pages/defects.md)  
 Bug Triage  

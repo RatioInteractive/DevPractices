@@ -25,7 +25,7 @@ Entity Relationship Diagram Basics
 [Standups](../master/pages/standups.md)  
 [Stories](../master/pages/stories.md)  
 Sprint Planning  
-Estimation  
+[Estimation](../master/pages/estimation.md)  
 [Defects](../master/pages/defects.md)  
 Bug Triage  
 Retrospectives  

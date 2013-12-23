@@ -37,4 +37,5 @@ Additional info:
 ----
 * This format is taken from Mike Cohn's book [User Stories Applied]
 (http://www.mountaingoatsoftware.com/agile/user-stories).
-* Use the [INVEST mnemonic](http://en.wikipedia.org/wiki/INVEST_(mnemonic\)) to evaluate story fitness.
+* Use the [INVEST mnemonic](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) to evaluate story fitness.
+* Card, Conversation, Confirmation [3C's](http://xprogramming.com/articles/expcardconversationconfirmation/)

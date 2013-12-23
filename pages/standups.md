@@ -14,7 +14,7 @@ Standups
 * A standup _shouldn't take more than 15 minutes_
 * Quickly determine when an issue needs to be **taken offline**
 * _Dismiss people_ as soon as possible
-* **Flag issues** for followup with a smaller audience
+* **Flag issues** for follow-up with a smaller audience
 
 #### Communicate the story
 Minimize technical reporting, talk about the _what_ of an issue. It makes it easier to understand the why. Understanding why we are doing something increases the value of the work, and the capacity for us to be invested in what we are doing.

@@ -25,7 +25,7 @@ Entity Relationship Diagram Basics
 [Design Guidelines](../master/pages/ios/design_guidelines.md)  
 
 ### Web
-[Coding Guidelines](../master/pages/web/code_guidelines.md)  
+[Coding Guidelines](../master/pages/web/javascript_code_guidelines.md)  
 [Design Guidelines](../master/pages/web/design_guidelines.md)  
 
 ### Windows

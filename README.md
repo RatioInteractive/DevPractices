@@ -38,6 +38,7 @@ Test Cases
 
 Product Development
 ---
+[Project Kickoff](../master/pages/projectkickoff.md)  
 [Standups](../master/pages/standups.md)  
 [Stories](../master/pages/stories.md)  
 [Backlog Management + Sprint Planning](../master/pages/sprint_planning.md)  

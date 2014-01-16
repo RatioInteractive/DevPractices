@@ -32,6 +32,10 @@ Entity Relationship Diagram Basics
 [Coding Guidelines](../master/pages/windows/code_guidelines.md)  
 [Design Guidelines](../master/pages/windows/design_guidelines.md)  
 
+### QA
+Test Plan Guidelines
+Test Case Guidelines
+
 Product Development
 ---
 [Standups](../master/pages/standups.md)  

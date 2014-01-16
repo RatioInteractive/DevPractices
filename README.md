@@ -3,8 +3,23 @@ Best Practices
 
 A simple Docuhub to keep track of Ratio's internal development practices and processes.
 
+Product Development
+---
+[Project Kickoff](../master/pages/projectkickoff.md)  
+[Standups](../master/pages/standups.md)  
+[Stories](../master/pages/stories.md)  
+[Backlog Management + Sprint Planning](../master/pages/sprint_planning.md)  
+[Estimation](../master/pages/estimation.md)  
+[Defects](../master/pages/defects.md)  
+[Triage](../master/pages/triage.md)  
+[Retrospectives](../master/pages/retrospectives.md)  
+[Postmortems](../master/pages/postmortems.md)  
+
 Engineering
 ---
+[Project Best Practices](../master/pages/project_best_practices.md)  
+[Project Setup Documentation](../master/pages/project_setup_documentation.md)  
+[Release Checklist Examples](../master/pages/release_checklists.md)  
 [Git Basics](../master/pages/git_basics.md)  
 [Git Best Practices](../master/pages/git_best_practices.md)  
 [Git Command Cheat Sheet](../master/pages/git_commands.md)  
@@ -35,15 +50,3 @@ Entity Relationship Diagram Basics
 ### QA
 Test Plans  
 Test Cases  
-
-Product Development
----
-[Project Kickoff](../master/pages/projectkickoff.md)  
-[Standups](../master/pages/standups.md)  
-[Stories](../master/pages/stories.md)  
-[Backlog Management + Sprint Planning](../master/pages/sprint_planning.md)  
-[Estimation](../master/pages/estimation.md)  
-[Defects](../master/pages/defects.md)  
-[Triage](../master/pages/triage.md)  
-[Retrospectives](../master/pages/retrospectives.md)  
-[Postmortems](../master/pages/postmortems.md)

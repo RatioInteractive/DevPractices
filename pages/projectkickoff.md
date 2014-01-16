@@ -7,9 +7,11 @@ Three Goals:
 #### Connect the client to key project team members 
 + Build a sense of connection.
 + Let the client know who will be communicating with them and how.
+ 
 #### Communicate our process
 + "This is how we will deliver for you."
-+ Sprints, sprint planning, sprint demos, how the backlog works, reports, etc.
++ Sprints, sprint planning, sprint demos, how the backlog works, reports, etc.  
+ 
 #### Clarify the current state of requirements and the plan to get to sprint one.
 + Review all the data and requirements we have been given. 
 + Clarify / ask questions.

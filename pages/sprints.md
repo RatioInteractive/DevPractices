@@ -1,16 +1,19 @@
 Sprints
 =
-In Agile design and development, projects move forward via a series of iterations called sprints. Each sprint is typically two to four weeks long. Sprints have the following vital elements.
+In Agile design and development, projects move forward via a series of iterations called sprints. Each sprint is typically two to four weeks long. Sprints have a number of vital elements.
 
 Sprint Elements
 -
-#### element 
+#### Sprint Planning Meeting
 + points
  
-#### element 
+#### Daily Standup
 + points
  
-#### element 
+#### Sprint Demo
++ points
+
+#### Sprint Retrospective
 + points
 
 notes

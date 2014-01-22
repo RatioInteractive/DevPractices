@@ -4,6 +4,13 @@ In Agile design and development, projects move forward via a series of iteration
 
 Sprint Elements
 -
+
+#### Product Backlog
++ The Product Backlog is a collection of stories that define the requirements and priorities of the project.
+
+#### Sprint Backlog
++ points
+
 #### Sprint Planning Meeting
 + points
  
@@ -16,6 +23,11 @@ Sprint Elements
 #### Sprint Retrospective
 + points
 
-notes
+Links to related best practices
 -
-+ note points
+[Standups](../master/pages/standups.md)  
+[Stories](../master/pages/stories.md)  
+[Backlog Management + Sprint Planning](../master/pages/sprint_planning.md)  
+[Estimation](../master/pages/estimation.md)  
+[Defects](../master/pages/defects.md)  
+[Retrospectives](../master/pages/retrospectives.md)  

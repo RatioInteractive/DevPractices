@@ -5,31 +5,37 @@ A simple Docuhub to keep track of Ratio's internal development practices and pro
 
 Product Development
 ---
-[Project Kickoff](../master/pages/projectkickoff.md)  
-[Standups](../master/pages/standups.md)  
+[Project Kickoff](../master/pages/project_kickoff.md)  
+[Initial Planning and Design](../master/pages/initial_planning_and_design.md)  
 [Stories](../master/pages/stories.md)  
-[Backlog Management + Sprint Planning](../master/pages/sprint_planning.md)  
 [Estimation](../master/pages/estimation.md)  
+[Product Owner/Proxy](../master/pages/product_owner_proxy.md)  
+[Backlog Management + Sprint Planning](../master/pages/sprint_planning.md)  
+[Sprint](../master/pages/sprints.md)  
+[Standups](../master/pages/standups.md)  
 [Defects](../master/pages/defects.md)  
 [Triage](../master/pages/triage.md)  
+[Potentially Shippable Product](../master/pages/potentially_shippable_product.md)  
 [Retrospectives](../master/pages/retrospectives.md)  
 [Postmortems](../master/pages/postmortems.md)  
 
+
 Engineering
 ---
-[Project Best Practices](../master/pages/project_best_practices.md)  
-[Project Setup Documentation](../master/pages/project_setup_documentation.md)  
-[Release Checklist Examples](../master/pages/release_checklists.md)  
-[Git Basics](../master/pages/git_basics.md)  
-[Git Best Practices](../master/pages/git_best_practices.md)  
-[Git Command Cheat Sheet](../master/pages/git_commands.md)  
-[Git Fork/Pull](../master/pages/github_branching_and_pull_requests.md)  
-[Versioning for Release](../master/pages/versioning_for_release.md)  
+[Project Best Practices](../master/pages/engineering/project_best_practices.md)  
+[Project Setup Documentation](../master/pages/engineering/project_setup_documentation.md)  
+[Release Checklist Examples](../master/pages/engineering/release_checklists.md)  
+[Git Basics](../master/pages/engineering/git_basics.md)  
+[Git Best Practices](../master/pages/engineering/git_best_practices.md)  
+[Git Command Cheat Sheet](../master/pages/engineering/git_commands.md)  
+[Git Fork/Pull](../master/pages/engineering/github_branching_and_pull_requests.md)  
+[Versioning for Release](../master/pages/engineering/versioning_for_release.md)  
+<!--
 Test Driven Development  
 Logic Diagram Basics  
 Sequence Diagram Basics  
 Entity Relationship Diagram Basics  
-
+-->
 ### Android
 [Coding Guidelines](../master/pages/android/code_guidelines.md)  
 [Design Guidelines](../master/pages/android/design_guidelines.md)  

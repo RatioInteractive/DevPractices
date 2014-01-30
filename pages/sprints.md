@@ -1,33 +1,26 @@
 Sprints
 =
-In Agile design and development, projects move forward via a series of iterations called sprints. Each sprint is typically two to four weeks long. Sprints have a number of vital elements.
 
-Sprint Elements
--
+Sprints are the scheduled expense of time against commitments made by the team that the product owner anticipates and understands. 
 
-#### Product Backlog
-+ The Product Backlog is a collection of stories that define the requirements and priorities of the project.
+##### Everyone does work during the sprint, here are some examples: 
+- **PM** - continues planning for the next sprint; attending to story development by working with team members to ensure questions are identified and converted into requirements, or working with the product owner to resolve questions and prioritize the backlog.
+- **Designer** - create comps and assets required for the stories in the current or next sprint. 
+- **Engineer** - execute a technical solution against stories, verifying they satisfy requirements. 
+- **QA** - verify the technical solution matches comps and satisfies the requirements of the stories.
 
-#### Sprint Backlog
-+ points
+### Composition of a sprint
+Sprints are typically 2 weeks and should aim to fit the right amount of stories for each team member such that meetings, planning and bug fix time are accounted for. Other sprint elements (in chronological order) are: [sprint planning meeting](../master/pages/sprint_planning.md), [daily standup](../master/pages/standups.md), sprint demo, and [sprint retrospective](../master/pages/retrospectives.md).
 
-#### Sprint Planning Meeting
-+ points
- 
-#### Daily Standup
-+ points
- 
-#### Sprint Demo
-+ points
+### Measuring a sprint
+The basic unit of measure for a sprint is the number of stories planned vs complete. This ratio indicates team velocity and should be used to modulate the time valuation of story points. 
 
-#### Sprint Retrospective
-+ points
+### Completing stories
+If a story is not tested during the sprint then it is not complete. Incomplete stories go to the top of the backlog when the sprint ends, despite being in progress. If the sprint ends with too many open bugs against new features, the project will begin incurring a problematic [technical debt](http://martinfowler.com/bliki/TechnicalDebt.html). This usually requires drastic reduction in the number of stories accepted into the subsequent sprint. 
 
-Links to related best practices
--
-[Standups](../master/pages/standups.md)  
-[Stories](../master/pages/stories.md)  
-[Backlog Management + Sprint Planning](../master/pages/sprint_planning.md)  
-[Estimation](../master/pages/estimation.md)  
-[Defects](../master/pages/defects.md)  
-[Retrospectives](../master/pages/retrospectives.md)  
+##### High bug counts are a good indication of:
+- paying a previous technical debt
+- unclear requirements
+- failing to test ones own work
+
+The cause of not completing stories should be discussed and understood during the sprint retrospective. 

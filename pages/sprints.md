@@ -10,7 +10,7 @@ Sprints are the scheduled expense of time against commitments made by the team t
 - **QA** - verify the technical solution matches comps and satisfies the requirements of the stories.
 
 ### Composition of a sprint
-Sprints are typically 2 weeks and should aim to fit the right amount of stories for each team member such that meetings, planning and bug fix time are accounted for. Other sprint elements (in chronological order) are: [sprint planning meeting](../master/pages/sprint_planning.md), [daily standup](../master/pages/standups.md), sprint demo, and [sprint retrospective](../master/pages/retrospectives.md).
+Sprints are typically 2 weeks and should aim to fit the right amount of stories for each team member such that meetings, planning and bug fix time are accounted for. Other sprint elements (in chronological order) are: [sprint planning meeting](../pages/sprint_planning.md), [daily standup](../pages/standups.md), sprint demo, and [sprint retrospective](../pages/retrospectives.md).
 
 ### Measuring a sprint
 The basic unit of measure for a sprint is the number of stories planned vs complete. This ratio indicates team velocity and should be used to modulate the time valuation of story points. 

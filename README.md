@@ -15,7 +15,7 @@ Product Development
 [Standups](../master/pages/standups.md)  
 [Defects](../master/pages/defects.md)  
 [Triage](../master/pages/triage.md)  
-[Potentially Shippable Product](../master/pages/potentially_shippable_product.md)  
+[Sprint Deliverables](../master/pages/sprint_deliverables.md)  
 [Retrospectives](../master/pages/retrospectives.md)  
 [Postmortems](../master/pages/postmortems.md)  
 

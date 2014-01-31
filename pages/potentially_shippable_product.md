@@ -1,4 +1,4 @@
-Potentially Shippable Product
+Sprint Deliverables
 =
 
 The output of a sprint should be the delivery of value to the client or product. The most common deliverables from a sprint are completed user stories that provide new functionality in the product. However, there are equally valuable forms of deliverables which should not go unmentioned:  

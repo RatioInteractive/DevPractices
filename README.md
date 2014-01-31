@@ -7,17 +7,19 @@ Product Development
 ---
 [Project Kickoff](../master/pages/project_kickoff.md)  
 [Initial Planning and Design](../master/pages/initial_planning_and_design.md)  
-[Stories](../master/pages/stories.md)  
-[Estimation](../master/pages/estimation.md)  
-[Product Owner/Proxy](../master/pages/product_owner_proxy.md)  
 [Backlog Management + Sprint Planning](../master/pages/sprint_planning.md)  
-[Sprint](../master/pages/sprints.md)  
+[Sprints](../master/pages/sprints.md)  
 [Standups](../master/pages/standups.md)  
-[Defects](../master/pages/defects.md)  
-[Triage](../master/pages/triage.md)  
 [Sprint Deliverables](../master/pages/sprint_deliverables.md)  
 [Retrospectives](../master/pages/retrospectives.md)  
 [Postmortems](../master/pages/postmortems.md)  
+
+[Product Owner/Proxy](../master/pages/product_owner_proxy.md)  
+
+[Stories](../master/pages/stories.md)  
+[Estimation](../master/pages/estimation.md)  
+[Defects](../master/pages/defects.md)  
+[Triage](../master/pages/triage.md)  
 
 
 Engineering

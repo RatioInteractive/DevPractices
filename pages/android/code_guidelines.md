@@ -95,7 +95,7 @@ Layout Design & XML
  * All colors should be named and exist under values/colors.xml.
  * Generally you should auto-format your XML files using Ctrl-Shift-F (Windows) or Cmd-Shift-F (Mac).
  * When two or more elements (buttons, text views, etc) share a certain "style", you should create a style for these elements in values/styles.xml.
- * If a layout XML is too large and complicated, consider extracting portions of it to another XML file and using <include> directives.
+ * If a layout XML is too large and complicated, consider extracting portions of it to another XML file and using &lt;include&gt; directives.
  * When designing for multiple form factors, generally you should use values/ for phones, values-sw533dp/ for 7" tablets, and values-800dp/ for 10" tablets to separate your layouts, assuming that the minimum API version supports these qualifiers.
  * Try to simplify your layouts as much as possible.
  

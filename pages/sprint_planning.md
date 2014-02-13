@@ -25,3 +25,9 @@ These are things which should not typically occur in a sprint planning meeting:
 + Gathering requirements or giving initial estimates on stories  
 + Estimating under-developed stories  
 + Debating functionality  
+
+### Guest List
+Who should attend the sprint planning meeting? 
+
++ Generally, it is best that the entire project team attend so they can participate in planning poker and take ownership of (and agree to) the work to be done in the sprint. 
++ Generally, it is best that the product owner / proxy not attend to avoid any confusion or undue influence on the team's decision-making process. Priorities are set by the product owner / proxy before the meeting. The results of sprint planning are reported back to them.

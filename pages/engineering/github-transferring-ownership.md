@@ -4,7 +4,7 @@ We don't want to fork the repository because that would imply a relationship wit
 Instead we'll create a new repository on GitHub, push the current HEAD revision to it and transfer
 ownership to the client.
 
-**Old Repository:** http://github.com/RatioInteractive/SomeCoolProject
+**Old Repository:** http://github.com/RatioInteractive/SomeCoolProject  
 **New Repository:** http://github.com/RatioInteractive/GoodbyeSomeCoolProject
 
 ```

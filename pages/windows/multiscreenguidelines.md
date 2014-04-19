@@ -91,11 +91,6 @@ One specific issue to think about in terms of labels and input fields is whether
 
 
 
-
-
-
-### Designing for multiple orientations
-
 ## *For Developers*
 
 

@@ -36,19 +36,22 @@ A simple example:
 formatting template: *name*.scale-*scalingValue*.*ext*
 ## Multiple Resolutions
 ### Designing for multiscreen
-While we need make designs that can smoothly scale to spectrum of resolutions, Microfsoft have called out some key resolutions to set as check points in the design.
+While we need make designs that can smoothly scale across a spectrum of resolutions, Microfsoft has called out some key resolutions to set as check points in the design.
 
-Fullscreen screen size (effective pixel resolution)    Device description
-1366x768	Tablets, convertibles, and many laptops (16:9 aspect ratio); baseline laptop/desktop resolution
-1920x1080	Large laptops and devices (16:9 aspect ratio)
-2560x1440	Very large all-in-one device (16:9 aspect ratio)
-1280x800 and 800x1280	Portrait-first small devices (16:10 aspect ratio)
-1024x768 and 768x1024	Landscape-first small devices (4:3 aspect ratio)
-1371x857 and 857x1371	Small devices (16:10 aspect ratio)
-384x640	4.5" phone (15:9 aspect ratio)
-400x711	4.7" phone (16:9 aspect ratio)
-450x800	5.5" phone (16:9 aspect ratio)
-491x873	6" phone (16:9 aspect ratio)
+| Resolution | Description |
+| ---------- | ----------- |
+| 1366x768	|Tablets, convertibles, and many laptops (16:9 aspect ratio); baseline laptop/desktop resolution|
+| 1920x1080	| Large laptops and devices (16:9 aspect ratio) |
+| 2560x1440	| Very large all-in-one device (16:9 aspect ratio) |
+| 1280x800 and 800x1280 |	Portrait-first small devices (16:10 aspect ratio) |
+| 1024x768 and 768x1024 |	Landscape-first small devices (4:3 aspect ratio) |
+| 1371x857 and 857x1371 |	Small devices (16:10 aspect ratio) |
+| 384x640 |	4.5" phone (15:9 aspect ratio) |
+| 400x711 |	4.7" phone (16:9 aspect ratio) |
+| 450x800 |	5.5" phone (16:9 aspect ratio) |
+| 491x873 |	6" phone (16:9 aspect ratio) |
+
+
 ### Designing for multiple orientations
 
 ## *For Developers*

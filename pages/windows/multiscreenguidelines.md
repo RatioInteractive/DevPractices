@@ -28,7 +28,7 @@ In order to support the auto scaling functionality on the Windows platform multi
 A simple example:
 
 | Original Asset Name | Original Assest Resolution | Scaled Names           | Scaled Resolutions |
-| ___________________ | __________________________ | ______________________ | __________________ |
+| ------------------- | -------------------------- | ---------------------- | ------------------ |
 | Logo.png            | 100x100                    | Logo.scale-100.png     | 100x100            |
 |                     |                            | Logo.scale-140.png     | 140x140            |
 |                     |                            | Logo.scale-180.png     | 180x180            |

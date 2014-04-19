@@ -60,7 +60,10 @@ Another aspect to consider is when an app is windowed(sharing the screen with an
 | 500x768 |	Default minimum size for app; Screen split in half on a 1024x768 device |
 | 320x768 |	Minimum size for apps that support 320 pixel minimum width |
 
-To facilitate translation from design to implementation the layout of a page should be described in ratio's(no pun intended) not fixed pixel sizes. Fo instance, a header might be 0.125 leaving 0.875 for the rest of the body. As you add sub sections to the page, a grid for example, the ratio's should represent the values for the elements that make up that sub section. So in the case of the grid we might want a margin around the grid of top/bottom 0.1, left/right 0.15 with the grid itself denoted as 0.7x0.8 following the standard practice of widthXheight.
+To facilitate translation from design to implementation the layout of a page should be described in ratio's(no pun intended) not fixed pixel sizes. Fo instance, a header might be `0.125` leaving `0.875` for the rest of the body. As you add sub sections to the page, a grid for example, the ratio's should represent the values for the elements that make up that sub section. So in the case of the grid we might want a margin around the grid of top/bottom `0.1`, left/right `0.15` with the grid itself denoted as `0.7`x`0.8` following the standard practice of `width`x`height`.
+
+For windowing a design decision should be made about what the minimum width for the app should be.  Windows Store Apps provide two possible values: `500px`, `320px`. The phone has the fixed minimum widths of `384px` in portrait and `640px` in landscape.
+
 
 
 

@@ -13,7 +13,7 @@ Dots per inch(DPI) is the general measure used when describing pixel density.  H
 ### Designing for Pixel Density
 Windows Store Apps will automatically scale the UI for the appropriate screen size(in inches on the diagonal) and the screen resolution(in pixels). To ensure smooth results and avoid pixel rounding use typographic grid units(em) based on the grid of 20px for major grid units and 5px for minor grid units.
 
-The scaling platues used by the platform are:
+The scaling plateaus used by the platform are:
 * 1 Base scale
 * 1.4
 * 1.8

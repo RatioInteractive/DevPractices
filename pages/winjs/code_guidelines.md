@@ -25,8 +25,8 @@ WinJS
 CSS
 ---
 
-### CSS for single page app - css conflict when navigating in and out.
-* Use name space
+### CSS for single page app - unexpected style change when navigating in and out.
+* Use CSS nesting
 
 ### Media Query - Put the media query section at the end of file. (if you want to define some style to override).
 * If not, the media query style will be over-written by the original style.

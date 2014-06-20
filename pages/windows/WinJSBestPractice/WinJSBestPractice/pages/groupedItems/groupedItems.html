@@ -25,11 +25,10 @@
 
     <div class="itemtemplate" data-win-control="WinJS.Binding.Template">
         <div class="item">
-            <img class="item-image" src="#" data-win-bind="src: backgroundImage; alt: title" />
-            <div class="item-overlay">
-                <h4 class="item-title" data-win-bind="textContent: title"></h4>
-                <h6 class="item-subtitle win-type-ellipsis" data-win-bind="textContent: subtitle"></h6>
+            <div class="item-title">
+                <h4 data-win-bind="textContent: title; className: group.key"></h4>
             </div>
+            <h5 class="item-subtitle" data-win-bind="textContent: description"></h5>
         </div>
     </div>
 

@@ -28,7 +28,12 @@
 
         _itemInvoked: function (args) {
             var item = Data.items.getAt(args.detail.itemIndex);
-            nav.navigate("/pages/itemDetail/itemDetail.html", { item: Data.getItemReference(item) });
+            if (item.page) {
+                nav.navigate(item.page, { item: Data.getItemReference(item) });
+            } else {
+                var messageDialog = new Windows.UI.Popups.MessageDialog("Sorry. The detail page has not been implemented yet.");
+                messageDialog.showAsync();
+            }
         }
     });
 })();

@@ -68,6 +68,9 @@
     <Content Include="js\data.js" />
     <Content Include="js\default.js" />
     <Content Include="js\navigator.js" />
+    <Content Include="pages\CSS\CSSConflict\CSSConflict.css" />
+    <Content Include="pages\CSS\CSSConflict\CSSConflict.html" />
+    <Content Include="pages\CSS\CSSConflict\CSSConflict.js" />
     <Content Include="pages\itemDetail\itemDetail.css" />
     <Content Include="pages\itemDetail\itemDetail.html" />
     <Content Include="pages\itemDetail\itemDetail.js" />
@@ -84,7 +87,6 @@
     <SDKReference Include="Microsoft.WinJS.2.0, Version=1.0" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="pages\CSS\" />
     <Folder Include="pages\JavaScript\" />
     <Folder Include="pages\HTML\" />
     <Folder Include="pages\WinJS\" />

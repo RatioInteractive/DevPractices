@@ -1,0 +1,32 @@
+﻿.CSSConflict section {
+	margin: auto 120px;
+}
+
+.phone .CSSConflict .page-section {
+	margin: auto 24px;
+}
+
+.phone .CSSConflict .page-header .titlearea {
+	-ms-grid-column: 1;
+	margin-top: 37px;
+	margin-left: 24px;
+	font-size: 28pt;
+	width: calc(100vw - 20px);
+}
+
+.phone .CSSConflict .back-button {
+	display: none;
+}
+
+.CSSConflict .fragment {
+	-ms-grid-columns: 1fr;
+	-ms-grid-rows: 128px 1fr;
+	display: -ms-grid;
+	height: 100%;
+	width: 100%;
+}
+
+    .CSSConflict .fragment section[role=main] {
+		-ms-grid-row: 2;
+		height: 100%;
+	}

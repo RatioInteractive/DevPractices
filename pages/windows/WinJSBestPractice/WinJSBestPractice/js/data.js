@@ -108,7 +108,7 @@
                 group: groups["CSS"],
                 title: "CSS conflict!!",
                 description: "Do you see some style change after you navigated to a certain page and come back?",
-                page: "",
+                page: "/pages/CSS/CSSConflict/CSSConflict.html",
                 approved: false
             },
             {

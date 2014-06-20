@@ -53,7 +53,11 @@ Entity Relationship Diagram Basics
 
 ### Windows
 [Coding Guidelines](../master/pages/windows/code_guidelines.md)  
-[Design Guidelines](../master/pages/windows/design_guidelines.md)  
+[Design Guidelines](../master/pages/windows/design_guidelines.md)
+
+### WinJS
+[Coding Guidelines](../master/pages/winjs/code_guidelines.md)  
+[Design Guidelines](../master/pages/winjs/design_guidelines.md)
 
 ### QA
 Test Plans  

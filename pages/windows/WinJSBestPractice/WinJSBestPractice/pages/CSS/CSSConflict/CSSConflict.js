@@ -8,6 +8,8 @@
         // populates the page elements with the app's data.
         ready: function (element, options) {
             // TODO: Initialize the page here.
+            var item = Data.resolveItemReference(options.item);
+            element.querySelector(".titlearea .pagetitle").textContent = item.title;
         },
 
         unload: function () {

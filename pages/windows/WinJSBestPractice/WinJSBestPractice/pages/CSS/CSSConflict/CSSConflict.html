@@ -25,7 +25,26 @@
                 <h5 class="inner-section-detail">When you define the css style, you can use it under the element which can be used to distinguish it.</h5>
             </div>
             <div class="page-example inner-section">
-
+                <div class="css-conflict-div-1">I'm a normal black div</div>
+                <div class="css-conflict-div-2" id="cssConflictDiv2">I'm a normal black div, too</div>
+                <button id="moveToProblematicPage">Move to the problematic page</button>
+                <pre class="code-sample">
+    .CSSConflict .page-section .inner-section .css-conflict-div-1 {
+        border: 3px gray solid;
+        margin: 10px;
+        width : 300px;
+        height: 100px;
+        background-color: black;
+    }
+    .inner-section .css-conflict-div-2 {
+        border: 3px gray solid;
+        margin: 10px;
+        width : 300px;
+        height: 100px;
+        background-color: black;
+    }
+            </pre>
+                
             </div>
         </section>
     </div>

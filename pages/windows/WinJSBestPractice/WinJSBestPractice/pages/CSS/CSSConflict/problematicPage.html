@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>problematicPage</title>
+
+    <link href="problematicPage.css" rel="stylesheet" />
+    <script src="problematicPage.js"></script>
+</head>
+<body>
+    <div class="problematicPage fragment">
+        <header class="page-header" aria-label="Header content" role="banner">
+            <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Welcome to the problematic page</span>
+            </h1>
+        </header>
+        <section class="page-section" aria-label="Main content" role="main">
+            <h3>What? I'm just defining my own CSS style...</h3>
+            <div class="inner-section">
+                <div class="css-conflict-div-1">I'm a normal black div</div>
+                <div class="css-conflict-div-2">I'm a normal black div, too</div>
+            </div>
+            <p></p>
+            <pre class="code-sample">
+   .problematicPage .page-section .inner-section .css-conflict-div-1 {
+        border: 3px green solid;
+        margin: 10px;
+        width : 300px;
+        height: 100px;
+        background-color: green;
+    }
+    .inner-section .css-conflict-div-2 {
+        border: 3px green solid;
+        margin: 10px;
+        width : 300px;
+        height: 100px;
+        background-color: red;
+    }
+            </pre>
+        </section>
+    </div>
+</body>
+</html>

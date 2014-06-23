@@ -71,6 +71,12 @@
     <Content Include="pages\CSS\CSSConflict\CSSConflict.css" />
     <Content Include="pages\CSS\CSSConflict\CSSConflict.html" />
     <Content Include="pages\CSS\CSSConflict\CSSConflict.js" />
+    <Content Include="pages\CSS\CSSConflict\problematicPage.css" />
+    <Content Include="pages\CSS\CSSConflict\problematicPage.html" />
+    <Content Include="pages\CSS\CSSConflict\problematicPage.js" />
+    <Content Include="pages\CSS\MediaQueryLocation\mediaQueryLocation.css" />
+    <Content Include="pages\CSS\MediaQueryLocation\mediaQueryLocation.html" />
+    <Content Include="pages\CSS\MediaQueryLocation\mediaQueryLocation.js" />
     <Content Include="pages\itemDetail\itemDetail.css" />
     <Content Include="pages\itemDetail\itemDetail.html" />
     <Content Include="pages\itemDetail\itemDetail.js" />
@@ -81,13 +87,15 @@
     <Content Include="pages\groupedItems\groupedItems.html" />
     <Content Include="pages\groupedItems\groupedItems.js" />
     <Content Include="default.html" />
+    <Content Include="pages\JavaScript\ReduceLayoutPass\reduceLayoutPass.css" />
+    <Content Include="pages\JavaScript\ReduceLayoutPass\reduceLayoutPass.html" />
+    <Content Include="pages\JavaScript\ReduceLayoutPass\reduceLayoutPass.js" />
     <None Include="WinJSBestPractice_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <SDKReference Include="Microsoft.WinJS.2.0, Version=1.0" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="pages\JavaScript\" />
     <Folder Include="pages\HTML\" />
     <Folder Include="pages\WinJS\" />
   </ItemGroup>

@@ -101,7 +101,7 @@
                 group: groups["JavaScript"],
                 title: "Reduce the number of layout passes",
                 description: "It will improve the app responsiveness dramatically",
-                page: "",
+                page: "/pages/JavaScript/ReduceLayoutPass/reduceLayoutPass.html",
                 approved: false
             },
             {
@@ -115,7 +115,7 @@
                 group: groups["CSS"],
                 title: "Media Query Broken?",
                 description: "Why the style in the media query is not applied?",
-                page: "",
+                page: "/pages/CSS/MediaQueryLocation/mediaQueryLocation.html",
                 approved: false
             }
 

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>mediaQueryLocation</title>
+
+    <link href="mediaQueryLocation.css" rel="stylesheet" />
+    <script src="mediaQueryLocation.js"></script>
+</head>
+<body>
+    <div class="mediaQueryLocation fragment">
+        <header class="page-header" aria-label="Header content" role="banner">
+            <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle"</span>
+            </h1>
+        </header>
+        <section class="page-section" aria-label="Main content" role="main">
+            <div class="page-symptom inner-section">
+                <h3 class="inner-section-title">Symptom</h3>
+                <h5 class="inner-section-detail">Defined media query for overriding some style does not work.</h5>
+            </div>
+            <div class="css-best-practice inner-section">
+                <h3 class="inner-section-title">Define the media query at the end of CSS file</h3>
+                <h5 class="inner-section-detail">We usually define media query with some style we want to override. Because it's overriding, it should be defined after the original style is defined.</h5>
+            </div>
+            <div class="page-example inner-section">
+                <div class="media-query-location-top">
+                    I'm supposed be blue when the screen got smaller. My media query is defined at the beginning of the css file.
+                </div>
+                <div class="media-query-location-bottom">
+                    I'm supposed be blue when the screen got smaller. My media query is defined at the end of the css file.
+                </div>
+                <pre class="code-sample">
+    .mediaQueryLocation .page-section .media-query-location-top {
+        background-color: blue;
+        width: 300px;
+    }
+    .mediaQueryLocation .page-section .media-query-location-bottom {
+        background-color: blue;
+        width: 300px;
+    }
+                </pre>
+            </div>
+</section>
+    </div>
+</body>
+</html>

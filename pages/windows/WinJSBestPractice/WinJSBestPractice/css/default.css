@@ -40,3 +40,36 @@
         height: 100%;
         width: 100%;
     }
+
+    /* Shared by all sample pages */
+    .page-section .inner-section {
+        margin: 5px 20px 5px 20px;
+        padding: 5px 10px 5px 10px;
+        width: 80%;
+    }
+
+    .page-section .page-symptom {
+        border: 1px gray groove;
+    }
+
+    .page-section .css-best-practice {
+        border: 4px #ff4500 solid;
+    }
+
+    .page-section .page-example {
+
+    }
+    
+    .page-section .inner-section .inner-section-title {
+        font-weight : 600;
+        font-size: large;
+        padding : 0 0 10px 0;
+    }
+
+    .page-section .inner-section .inner-section-detail {
+        font-size: medium;
+    }
+
+    .page-section .code-sample {
+        font-size: small;
+    }

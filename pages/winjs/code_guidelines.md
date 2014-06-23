@@ -22,6 +22,13 @@ WinJS
 * Using multi-stage rendering for better perf.
 * Incremental loading / Pagination.
 
+JavaScript
+----------
+
+### Reduce the number of layout passes
+* Eliminating the unnecessary layout pass will improve the performance of the app.
+
+
 CSS
 ---
 

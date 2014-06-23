@@ -4,7 +4,7 @@
 The following documentation describes a recommended process for performing code reviews via checking out GitHub Pull Requests locally.
 
 ##Code Review Process
-The code review process should be an integral piece of any multi-developer, production-worthy software development effort.  In general, a code review is just that - a review of code.  It is intended to find and fix mistakes overlooked in the initial development phase, improving both the overall quality of software and the developers' skills.  In the context of GitHub more specifically, the general recommended flow is this:
+The code review process should be an integral piece of any multi-developer, production-worthy software development effort.  In general, a code review is just that - a review of code.  It is intended to find and fix mistakes overlooked in the initial development phase, improving both the overall quality of software.  In the context of GitHub more specifically, the general recommended flow is this:
 
 1. Developer A submits a Pull Request containing one or more commits from their local repository (branch or fork)
 2. Lead Engineer or Developer B checks out Developer A's Pull Request to a read-only branch of their own local repository

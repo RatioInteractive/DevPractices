@@ -1,0 +1,82 @@
+﻿.CSSConflict section {
+	margin: auto 120px;
+}
+
+.phone .CSSConflict .page-section {
+	margin: auto 24px;
+}
+
+.phone .CSSConflict .page-header .titlearea {
+	-ms-grid-column: 1;
+	margin-top: 37px;
+	margin-left: 24px;
+	font-size: 28pt;
+	width: calc(100vw - 20px);
+}
+
+.phone .CSSConflict .back-button {
+	display: none;
+}
+
+.CSSConflict .fragment {
+	-ms-grid-columns: 1fr;
+	-ms-grid-rows: 128px 1fr;
+	display: -ms-grid;
+	height: 100%;
+	width: 100%;
+}
+
+    .CSSConflict .fragment section[role=main] {
+		-ms-grid-row: 2;
+		height: 100%;
+        display: -ms-flexbox;
+        -ms-flex-direction: column;
+	}
+
+    .page-section .inner-section {
+        margin: 5px 20px 5px 20px;
+        padding: 5px 10px 5px 10px;
+        width: 80%;
+    }
+
+    .page-section .page-symptom {
+        border: 1px gray groove;
+    }
+
+    .page-section .css-best-practice {
+        border: 4px #ff4500 solid;
+    }
+
+    .page-section .page-example {
+
+    }
+    
+    .page-section .inner-section .inner-section-title {
+        font-weight : 600;
+        font-size: large;
+        padding : 0 0 10px 0;
+    }
+
+    .page-section .inner-section .inner-section-detail {
+        font-size: medium;
+    }
+
+    .page-section .code-sample {
+        font-size: small;
+    }
+
+    .CSSConflict .page-section .inner-section .css-conflict-div-1 {
+        border: 3px gray solid;
+        margin: 10px;
+        width : 300px;
+        height: 50px;
+        background-color: black;
+    }
+
+    .inner-section .css-conflict-div-2 {
+        border: 3px gray solid;
+        margin: 10px;
+        width : 300px;
+        height: 50px;
+        background-color: black;
+    }

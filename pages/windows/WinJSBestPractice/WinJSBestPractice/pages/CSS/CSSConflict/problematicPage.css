@@ -1,0 +1,49 @@
+﻿.problematicPage section {
+	margin: auto 120px;
+}
+
+.phone .problematicPage .page-section {
+	margin: auto 24px;
+}
+
+.phone .problematicPage .page-header .titlearea {
+	-ms-grid-column: 1;
+	margin-top: 37px;
+	margin-left: 24px;
+	font-size: 28pt;
+	width: calc(100vw - 20px);
+}
+
+.phone .problematicPage .back-button {
+	display: none;
+}
+
+problematicPage .fragment {
+	-ms-grid-columns: 1fr;
+	-ms-grid-rows: 128px 1fr;
+	display: -ms-grid;
+	height: 100%;
+	width: 100%;
+}
+
+	problematicPage .fragment section[role=main] {
+		-ms-grid-row: 2;
+		height: 100%;
+	}
+
+         
+    .problematicPage .page-section .inner-section .css-conflict-div-1 {
+        border: 3px green solid;
+        margin: 10px;
+        width : 300px;
+        height: 50px;
+        background-color: green;
+    }
+
+    .inner-section .css-conflict-div-2 {
+        border: 3px green solid;
+        margin: 10px;
+        width : 300px;
+        height: 50px;
+        background-color: red;
+    }

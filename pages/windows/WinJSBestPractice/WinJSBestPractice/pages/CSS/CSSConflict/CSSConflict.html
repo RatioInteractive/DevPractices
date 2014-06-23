@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CSSConflict</title>
+
+    <link href="CSSConflict.css" rel="stylesheet" />
+    <script src="CSSConflict.js"></script>
+</head>
+<body>
+    <div class="CSSConflict fragment">
+        <header class="page-header" aria-label="Header content" role="banner">
+            <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle"></span>
+            </h1>
+        </header>
+        <section class="page-section" aria-label="Main content" role="main">
+            <div class="page-symptom inner-section">
+                <h3 class="inner-section-title">Symptom</h3>
+                <h5 class="inner-section-detail">After you navigate into different pages, the page you visited before looks different than before.</h5>
+            </div>
+            <div class="css-best-practice inner-section">
+                <h3 class="inner-section-title">Use CSS Nesting</h3>
+                <h5 class="inner-section-detail">When you define the css style, you can use it under the element which can be used to distinguish it.</h5>
+            </div>
+            <div class="page-example inner-section">
+                <div class="css-conflict-div-1">I'm a normal black div</div>
+                <div class="css-conflict-div-2" id="cssConflictDiv2">I'm a normal black div, too</div>
+                <button id="moveToProblematicPage">Move to the problematic page</button>
+                <pre class="code-sample">
+    .CSSConflict .page-section .inner-section .css-conflict-div-1 {
+        border: 3px gray solid;
+        margin: 10px;
+        width : 300px;
+        height: 100px;
+        background-color: black;
+    }
+    .inner-section .css-conflict-div-2 {
+        border: 3px gray solid;
+        margin: 10px;
+        width : 300px;
+        height: 100px;
+        background-color: black;
+    }
+            </pre>
+                
+            </div>
+        </section>
+    </div>
+</body>
+</html>

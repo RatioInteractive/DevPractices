@@ -67,8 +67,8 @@ JavaScript
 CSS
 ---
 
-### CSS for single page app - unexpected style change when navigating in and out.
-* Use CSS nesting
+### Use CSS nesting to avoid CSS conflict
+* Common symptom is the unexpected style change when navigating in and out.
 * Once the CSS style is loaded, it is not unloaded even when you navigate into the new page. If there's a style defined again using the same class name or same css selector, it'll override the current style. To Avoid the unwanted style change, use css nesting which can differentiate the style.
 ```CSS
 	.CSSConflict .page-section .inner-section .css-conflict-div-1 {

@@ -73,3 +73,7 @@
     .page-section .code-sample {
         font-size: small;
     }
+
+    .hidden {
+        display :none;
+    }

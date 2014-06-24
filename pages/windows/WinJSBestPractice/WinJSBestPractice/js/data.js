@@ -99,8 +99,8 @@
             },
             {
                 group: groups["JavaScript"],
-                title: "Reduce the number of layout passes",
-                description: "It will improve the app responsiveness dramatically",
+                title: "Reduce the number of layout passes / layout update",
+                description: "Eliminating the number of unnecessary layout passes or rendering will improve the app responsiveness dramatically",
                 page: "/pages/JavaScript/ReduceLayoutPass/reduceLayoutPass.html",
                 approved: false
             },

@@ -97,8 +97,8 @@ HTML
 ----
 ### Use the static markup and defer loading non-vital (for initializing the app) JS file
 * Get the benefit of bytecode caching by using the static markup.
-* Use defer on script that doesn’t need to be loaded at the launch. 
-* Be careful if your app can be launched with any page such as launching the app from the toast, or launched the app to the previously viewed page.
+* Use defer loading the script that doesn’t need to be loaded at the launch. 
+* Be careful if your app can be launched with any page, such as launching the app from the toast, or launching the app with the previously viewed page.
 
 ```HTML
 <script type="text/javascript" src='myjs.js' defer='defer'></script>

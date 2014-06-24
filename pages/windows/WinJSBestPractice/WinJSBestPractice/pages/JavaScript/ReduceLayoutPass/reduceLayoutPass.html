@@ -12,11 +12,30 @@
         <header class="page-header" aria-label="Header content" role="banner">
             <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
             <h1 class="titlearea win-type-ellipsis">
-                <span class="pagetitle">Welcome to reduceLayoutPass</span>
+                <span class="pagetitle"></span>
             </h1>
         </header>
         <section class="page-section" aria-label="Main content" role="main">
-            <p>Content goes here.</p>
+            <div class="css-best-practice inner-section">
+                <h3 class="inner-section-title">Reduce the number of layout passes</h3>
+                <h5 class="inner-section-detail">Think about the layout pass when you are dealing with DOMs in the loop.</h5>
+            </div>
+            <div class="page-example inner-section reduce-layout-pass-example">
+                <div class="reduce-layout-pass-example-detail">
+                    Number of elements to add (10 - 1000)
+                    <input id="totalNumber" type="range" min="10" max="1000" name="elementsToAdd" />
+                    <p></p>
+                    <button id="layoutPassApproachA">Approach - inefficient</button>
+                    <button id="layoutPassApproachB">Approach - better</button>
+                    <button id="layoutPassReset">Reset</button>
+                    <div class="reduce-layout-pass-example-measure" id="measuredTime"></div>
+                </div>
+                
+                <div class="reduce-layout-pass-example-test" >
+                    New divs will be added here
+                    <div id="testContainer"></div>
+                </div>
+            </div>
         </section>
     </div>
 </body>

@@ -26,7 +26,36 @@ reduceLayoutPass .fragment {
 	width: 100%;
 }
 
-	reduceLayoutPass .fragment section[role=main] {
+	.reduceLayoutPass .fragment section[role=main] {
 		-ms-grid-row: 2;
 		height: 100%;
 	}
+
+    .reduceLayoutPass .page-section .reduce-layout-pass-example {
+        display: -ms-grid;
+        -ms-grid-columns: 1fr 500px;
+        -ms-grid-rows: 1fr;
+    }
+
+    .reduceLayoutPass .page-section .reduce-layout-pass-example-detail {
+        -ms-grid-column: 1;
+        -ms-grid-row : 1;
+    }
+
+        .reduceLayoutPass .page-section .reduce-layout-pass-example-detail button {
+            margin: 5px;
+        }
+
+    .reduceLayoutPass .page-section .reduce-layout-pass-example-test {
+        -ms-grid-column: 2;
+        -ms-grid-row: 1;
+        width: 400px;
+        height: 450px;
+        overflow: auto;
+        background-color: #333333;
+    }
+
+     .reduceLayoutPass .page-section .reduce-layout-pass-example-test .box{
+         width : 300px;
+         height: 200px;
+    }

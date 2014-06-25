@@ -68,7 +68,7 @@ CSS
 ---
 
 ### Use CSS nesting to avoid CSS conflict
-* Common symptom is the unexpected style change when navigating in and out.
+* Common symptom is the unexpected style change when navigating in and out in the single page navigation application.
 * Once the CSS style is loaded, it is not unloaded even when you navigate into the new page. If there's a style defined again using the same class name or same css selector, it'll override the current style. To Avoid the unwanted style change, use css nesting which can differentiate the style.
 ```CSS
 	.CSSConflict .page-section .inner-section .css-conflict-div-1 {
@@ -80,6 +80,7 @@ CSS
 	}
 
 ```
+* Doesn't apply this rule to the CSS style which is intended to be applied to elements in multiple pages.
 * Look at the Ratio WinJS best practice app
 
 ### Media Query - Put the media query section at the end of file. (if you want to define some style to override).

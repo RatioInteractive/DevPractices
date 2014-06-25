@@ -31,7 +31,7 @@ JavaScript
 * Think about the layout pass when you are dealing with DOMs in the loop.
 * Layout pass is a complex procedure to apply the CSS style and other layout calculation to render the element. Even though it doesn't take long for one layout pass, it can be easily increased when it's been used in the loop.
 * Accessing the height or width of an element is one of the calls that trigger a layout pass.
-* Look at the Ratio WinJS best practice app for more detail.
+* Look at the [Ratio WinJS best practice app](../windows/WinJSBestPractice) for more detail.
 ```JavaScript
     function funcInefficient() {
         var total = getCount();
@@ -68,7 +68,7 @@ CSS
 ---
 
 ### Use CSS nesting to avoid CSS conflict
-* Common symptom is the unexpected style change when navigating in and out.
+* Common symptom is the unexpected style change when navigating in and out in the single page navigation application.
 * Once the CSS style is loaded, it is not unloaded even when you navigate into the new page. If there's a style defined again using the same class name or same css selector, it'll override the current style. To Avoid the unwanted style change, use css nesting which can differentiate the style.
 ```CSS
 	.CSSConflict .page-section .inner-section .css-conflict-div-1 {
@@ -80,12 +80,13 @@ CSS
 	}
 
 ```
-* Look at the Ratio WinJS best practice app
+* Don't apply this rule to the CSS style which is intended to be applied to elements in multiple pages.
+* Look at the [Ratio WinJS best practice app](../windows/WinJSBestPractice)
 
 ### Media Query - Put the media query section at the end of file. (if you want to define some style to override).
 * Define the media query at the end of CSS file. If not, the media query style will be over-written by the original style.
 * We usually define media query with some style we want to override. Because it's overriding the original style, it should be defined after the original style is defined.
-* Look at the Ratio WinJS best practice app
+* Look at the [Ratio WinJS best practice app](../windows/WinJSBestPractice)
 
 
 ### ~~Organizing CSS Styles~~
@@ -101,7 +102,8 @@ HTML
 * Be careful if your app can be launched with any page, such as launching the app from the toast, or launching the app with the previously viewed page.
 
 ```HTML
-<script type="text/javascript" src='myjs.js' defer='defer'></script>
+<script type="text/javascript" src='myjs1.js'></script>
+<script type="text/javascript" src='myjs2.js' defer='defer'></script>
 
 ```
 

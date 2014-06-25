@@ -31,7 +31,7 @@ JavaScript
 * Think about the layout pass when you are dealing with DOMs in the loop.
 * Layout pass is a complex procedure to apply the CSS style and other layout calculation to render the element. Even though it doesn't take long for one layout pass, it can be easily increased when it's been used in the loop.
 * Accessing the height or width of an element is one of the calls that trigger a layout pass.
-* Look at the Ratio WinJS best practice app for more detail.
+* Look at the [Ratio WinJS best practice app](../master/pages/windows/WinJSBestPractice) for more detail.
 ```JavaScript
     function funcInefficient() {
         var total = getCount();

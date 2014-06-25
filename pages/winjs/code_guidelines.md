@@ -80,13 +80,13 @@ CSS
 	}
 
 ```
-* Doesn't apply this rule to the CSS style which is intended to be applied to elements in multiple pages.
-* Look at the Ratio WinJS best practice app
+* Don't apply this rule to the CSS style which is intended to be applied to elements in multiple pages.
+* Look at the [Ratio WinJS best practice app](../windows/WinJSBestPractice)
 
 ### Media Query - Put the media query section at the end of file. (if you want to define some style to override).
 * Define the media query at the end of CSS file. If not, the media query style will be over-written by the original style.
 * We usually define media query with some style we want to override. Because it's overriding the original style, it should be defined after the original style is defined.
-* Look at the Ratio WinJS best practice app
+* Look at the [Ratio WinJS best practice app](../windows/WinJSBestPractice)
 
 
 ### ~~Organizing CSS Styles~~
@@ -102,7 +102,8 @@ HTML
 * Be careful if your app can be launched with any page, such as launching the app from the toast, or launching the app with the previously viewed page.
 
 ```HTML
-<script type="text/javascript" src='myjs.js' defer='defer'></script>
+<script type="text/javascript" src='myjs1.js'></script>
+<script type="text/javascript" src='myjs2.js' defer='defer'></script>
 
 ```
 

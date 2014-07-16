@@ -3,7 +3,7 @@ Best Practices
 
 A simple Docuhub to keep track of Ratio's internal development practices and processes.
 
-Product Development
+Project Life Cycle (PLC)
 ---
 [Project Kickoff](../master/pages/project_kickoff.md)  
 [Initial Planning and Design](../master/pages/initial_planning_and_design.md)  

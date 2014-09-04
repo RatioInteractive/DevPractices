@@ -1,6 +1,9 @@
 GitHub Basics
 =============
 
+Here's an online resource for Git that includes a downloadable e-book: http://git-scm.com/doc 
+
+
 Installing Git and GitHub
 -------------------------
 

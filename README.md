@@ -40,7 +40,7 @@ Sequence Diagram Basics
 Entity Relationship Diagram Basics  
 -->
 ### Android
-[Ratio Java / Android Style](http://htmlpreview.github.io/?https://github.com/RatioInteractive/DevPractices/blob/master/android/Ratio%20Java%20Style.html)
+[Ratio Java / Android Style](http://htmlpreview.github.io/?https://github.com/RatioInteractive/DevPractices/blob/master/android/Ratio%20Java%20Style.html)<br/>
 [Coding Guidelines](../master/pages/android/code_guidelines.md)  
 [Design Guidelines](../master/pages/android/design_guidelines.md)  
 [Dev Environment Setup on Ubuntu](../master/pages/android/android_ubuntu_setup.md)  

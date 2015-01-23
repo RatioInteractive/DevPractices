@@ -6,9 +6,8 @@ There are typically two kickoff meetings required – one for the internal team,
 
 ### Internal Kickoff Agenda
 
-* Participants: Core Project Team.
-
-* Should include: AM, PM, PS, QA, Lead Dev and/or Lead CRUX.
++ Participants: Core Project Team.
+  +Should include: AM, PM, PS, QA, Lead Dev and/or Lead CRUX.
 
 * Can include: ES, remaining Engineering and/or CRUX and/or QA team members.
 

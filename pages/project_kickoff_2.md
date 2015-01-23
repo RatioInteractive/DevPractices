@@ -6,11 +6,12 @@ The project kickoff meeting is designed to connect the client with the team, com
 
 Internal Kickoff Agenda
 -
-+ Participants: Core Project Team.
-  + Should include: AM, PM, PS, QA, Lead Dev and/or Lead CRUX.
-  + Can include: ES, remaining Engineering and/or CRUX and/or QA team members.
+### Participants 
++ Core Project Team.
++ Should include: AM, PM, PS, QA, Lead Dev and/or Lead CRUX.
++ Can include: ES, remaining Engineering and/or CRUX and/or QA team members.
   
-### Agenda Topics:
+### Agenda Topics
 + Client Overview
 + Roles and Responsibilities
 + Tools/Rhythms

@@ -23,22 +23,17 @@ Internal Kickoff Agenda
 ### Agenda Item Overview
 
 ####Client Overview
-
-* This should be a presentation about the partner from the voice of the AM and/or ES.
-
-* Goal of this presentation is to communicate:
-
-* Who the client and its key stakeholders are. (Should include details about the company; core business overview, annual revenue, locations, any info that helps the team understand the client)
-
-* What is the primary benefit the client will gain through the success of this project? (Goal is to be as specific as possible & authentic)
-
-* Why did the client select us? (Again specific and authentic)
++ This should be a presentation about the partner from the voice of the AM and/or ES.
++ Goal of this presentation is to communicate:
+  + Who the client and its key stakeholders are. (Should include details about the company; core business overview, annual revenue, locations, any info that helps the team understand the client)
+  + What is the primary benefit the client will gain through the success of this project? (Goal is to be as specific as possible & authentic)
+  + Why did the client select us? (Again specific and authentic)
 
 Roles & Responsibilities
 
-* This is as much a conversation to get to clarity as communication to specific role.
++ This is as much a conversation to get to clarity as communication to specific role.
 
-* Goals:
++ Goals:
 
 * The primary goal is to make sure everyone in the room understands their and the teams role. If they are a Lead and the project calls for additional resources below them (but are not present) the Lead will describe the role they intend for those resources.
 

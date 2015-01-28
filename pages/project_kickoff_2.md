@@ -2,6 +2,8 @@ Ratio Project Kickoffs
 =
 The project kickoff meeting is designed to connect the client with the team, communicate how we intend to deliver the project, and determine the current state of requirements (and develop a plan to complete them). The team for this meeting generally would include PM, CRUX Lead, Engineering Lead, Product Strategy. It could also include Architect, other roles as needed.
 
+[Kickoff PPT Deck](/kickoffs_deck.ppt)
+
 > There are typically two kickoff meetings required – one for the internal team, one for the client.
 
 Internal Kickoff Agenda

@@ -13,7 +13,8 @@ Internal Kickoff Agenda
 + Should include: AM, PM, PS, QA, Lead Dev and/or Lead CRUX.
 + Can include: ES, remaining Engineering and/or CRUX and/or QA team members.
   
-### Agenda Topics (see Agenda Item Overview for details)
+### Agenda Topics 
+*(see Agenda Item Overview for details)*
 + Client Overview
 + Roles and Responsibilities
 + Tools/Rhythms

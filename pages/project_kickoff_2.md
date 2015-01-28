@@ -14,7 +14,7 @@ Internal Kickoff Agenda
 + Can include: ES, remaining Engineering and/or CRUX and/or QA team members.
   
 ### Agenda Topics 
-*(see Agenda Item Overview for details)*
+*(see Agenda Topics Overview for details)*
 + Client Overview
 + Roles and Responsibilities
 + Tools/Rhythms
@@ -23,7 +23,7 @@ Internal Kickoff Agenda
 + Contract & Initial Project Plan Review
 + Client Kick-off prep
 
-### Agenda Item Overview
+### Agenda Topics Overview
 
 #### Client Overview
 + This should be a presentation about the partner from the voice of the AM and/or ES.
@@ -95,8 +95,8 @@ Internal Kickoff Agenda
   + Tools/Rhythms
   + Next steps
   
-### Agenda Item Overview
-
+### Agenda Topics Overview
+*(see Agenda Topics Overview for details)*
 #### Project Overview
 + Client presents the scope and overview of the project. All team members who have knowledge of this can contribute to the conversation. However, it is not the point of this to go into depth on any feature.
 

@@ -81,7 +81,8 @@ Client Kickoff Agenda
   + Identify whether we have enough to begin sprint planning or more work is needed.
   + If more work is needed, agree on a plan to get enough of a backlog together for the first sprint.
 
-### Participants: Core Project Team plus key client stakeholders.
+### Participants
++ Core Project Team plus key client stakeholders.
 + Should include: AM, PM, PS, QA, Lead Dev and/or Lead CRUX.
 + Can include: ES, remaining Engineering and/or CRUX and/or QA team members.
   + It's good to think through the team size for this meeting - only schedule the team you actually need to make communication easier.

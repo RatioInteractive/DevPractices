@@ -64,7 +64,8 @@ Internal Kickoff Agenda
 
 + Conversation about the goals of the K/O with the client. Review with team the proposed agenda for the client kickoff meeting. Adjust agenda if team finds gaps. Review individual commitments during the client kickoff or to prepare for it.
 
-#### Client Kickoff Agenda
+
+Client Kickoff Agenda
 -
 ### Three Goals
 + Connect the client to key project team members

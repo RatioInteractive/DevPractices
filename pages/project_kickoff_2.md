@@ -87,6 +87,7 @@ Client Kickoff Agenda
   + It's good to think through the team size for this meeting - only schedule the team you actually need to make communication easier.
 
 ### Agenda Topics:
+*(see Agenda Topics Overview for details)*
 + Team Intros
 + Project overview
 + Client Business Goals
@@ -97,7 +98,6 @@ Client Kickoff Agenda
 + Next steps
   
 ### Agenda Topics Overview
-*(see Agenda Topics Overview for details)*
 #### Project Overview
 + Client presents the scope and overview of the project. All team members who have knowledge of this can contribute to the conversation. However, it is not the point of this to go into depth on any feature.
 

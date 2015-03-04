@@ -45,6 +45,12 @@ Entity Relationship Diagram Basics
 [Design Guidelines](../master/pages/android/design_guidelines.md)  
 [Dev Environment Setup on Ubuntu](../master/pages/android/android_ubuntu_setup.md)  
 
+### Xbox 360
+[Xbo 360 Techincal Certification Requirements (TCRs)](../master/pages/xbox360/tcrs.md)  
+
+### Xbox One
+[Xbox One Certification Requirements (XRs)](../master/pages/xboxone/xrs.md)  
+
 ### iOS
 [Coding Guidelines](../master/pages/ios/code_guidelines.md)  
 [Design Guidelines](../master/pages/ios/design_guidelines.md)  
@@ -64,3 +70,4 @@ Entity Relationship Diagram Basics
 ### QA
 Test Plans  
 Test Cases  
+

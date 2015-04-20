@@ -31,10 +31,10 @@ Clone your project to your development machine the same way you would any other 
 $ git clone https://github.com/ninjascribble/ICSA-Win8.git
 ```
 
-`git push` and `git pull` will only affect your forked project. In order to keep your project in sync with the original, we'll have to add a `remote`. We'll call our remote "parent." Note that the url I use links to the original repository:
+`git push` and `git pull` will only affect your forked project. In order to keep your project in sync with the original, we'll have to add a `remote`. We'll call our remote "upstream." Note that the url I use links to the original repository:
 
 ```
-$ git remote add parent https://github.com/RatioInteractive/ICSA-Win8.git
+$ git remote add upstream https://github.com/RatioInteractive/ICSA-Win8.git
 ```
 
 Now you can sync your repository with the original any time you want by running:

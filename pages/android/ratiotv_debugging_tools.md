@@ -35,7 +35,7 @@ To set up proxying, you will need to have the Android SDK Tools installed on you
 Here are the commands you will need to issue in a command line to push the file:  
 adb shell  
 cd sdcard  
-mkdir RatioTV
+mkdir RatioTV  
 exit  
 adb push ./proxyFile.json /sdcard/RatioTV/proxyFile.json  
   

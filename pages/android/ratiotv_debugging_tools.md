@@ -10,10 +10,13 @@ We recommend you download the Android SDK Tools so you can have access to the lo
 The SDK Tools can be downloaded here: https://developer.android.com/sdk/installing/index.html?pkg=tools  
   
 *To see log output, execute the following command line command: adb logcat  
+  
 *If you are on a unix machine, and you want to filter log output for your app only, execute:  
 ``adb logcat | grep `adb shell ps | grep {app.package.name} | cut -c10-15` ``  
+  
 *If you are on a unix machine, and you want to filter log output to see http request urls for your app only, execute:  
 ``adb logcat | grep `adb shell ps | grep {app.package.name} | cut -c10-15` | grep getText``  
+  
 *NOTE: replace {app.package.name} with your app's package name
   
 **Switch Config/Bootstrap URL's**  

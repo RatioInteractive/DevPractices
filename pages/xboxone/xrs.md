@@ -1,2 +1,3 @@
 Xbox One Certification Requirements (XRs)
 ============
+The latest applicable XRs, and related information, are found at Microsoft's http://developer.xboxlive.com/ (AKA "GDNP" or Game Developer Network Portal). Be sure to start in the [Xbox One Apps section](https://developer.xboxlive.com/en-us/apps/Pages/home.aspx) any time you are looking for information which is applicable to RatioTV Xbox One applications. (Be aware that using search functions and so on may actually take you to information which is applicable to the wrong platform or wrong application type.) For updated XRs, select "Certification" dropdown menu, "Xbox Requirements", and then select the latest "Xbox Requirements for Media Apps" link.

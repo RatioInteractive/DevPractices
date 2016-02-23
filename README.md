@@ -47,7 +47,8 @@ Entity Relationship Diagram Basics
 [RatioTV Debugging Tools](../master/pages/android/ratiotv_debugging_tools.md)  
 
 ### Xbox 360
-[Xbo 360 Techincal Certification Requirements (TCRs)](../master/pages/xbox360/tcrs.md)  
+[Xbox 360 Techincal Certification Requirements (TCRs)](../master/pages/xbox360/tcrs.md)  
+[Xbox 360 Debugging](../master/pages/xbox360/debugging.md)
 
 ### Xbox One
 [Xbox One Certification Requirements (XRs)](../master/pages/xboxone/xrs.md)  

@@ -54,8 +54,8 @@ Entity Relationship Diagram Basics
 [Xbox One Certification Requirements (XRs)](../master/pages/xboxone/xrs.md)  
 
 ### Roku
-[Roku Debugging](../master/pages/roku/debugging.md)
-[Roku Cheat Codes](../master/pages/roku/cheatCodes.md)
+[Roku Debugging](../master/pages/roku/debugging.md)  
+[Roku Cheat Codes](../master/pages/roku/cheatCodes.md)  
 
 ### iOS
 [Coding Guidelines](../master/pages/ios/code_guidelines.md)  

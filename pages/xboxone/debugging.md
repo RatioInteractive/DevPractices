@@ -1,7 +1,4 @@
 # Xbox One Debugging
-
-Overview
---------
 Here are some debugging tips that Ratio has compiled for Xbox One.
 
 Fiddler

@@ -30,10 +30,12 @@ You may find it useful to set up a proxy with a tool like Charles or Fiddler.  T
 To set up proxying, you will need to have the Android SDK Tools installed on your computer.  You will push a file named "proxyFile.json" to a specific location on your test device.  The location is "/sdcard/RatioTV/proxyFile.json".  Here is a sample proxyFile.json:  
   
 {  
-  "isProxyEnabled": false,  
+  "isProxyEnabled": true,  
   "proxyIp": "192.168.21.146",  
   "proxyPort": 8888  
 }  
+  
+NOTE: Use your own values for proxyIp and proxyPort  
   
 Here are the commands you will need to issue in a command line to push the file:  
 adb shell  

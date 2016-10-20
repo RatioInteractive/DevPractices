@@ -1,4 +1,4 @@
-RatioTVX Debugging Tools
+RatioTV Debugging Tools
 ===
 
 **Download Android SDK Tools**  
@@ -8,8 +8,10 @@ We recommend you download the Android SDK Tools so you can have access to the lo
 * Setting up a proxy(see instructions below)
   
 The SDK Tools can be downloaded here: https://developer.android.com/sdk/installing/index.html?pkg=tools  
+
+*We recommend using Android Studio to monitor Logcat.  Just create a new Android studio project, which will then expose the 'Android Monitor' tab which shows Logcat output.
   
-*To see log output, execute the following command line command: adb logcat  
+*To see log output in the command line, execute the following command line command: adb logcat  
   
 *If you are on a unix machine, and you want to filter log output for your app only, execute:  
 ``adb logcat | grep `adb shell ps | grep {app.package.name} | cut -c10-15` ``  
@@ -20,9 +22,9 @@ The SDK Tools can be downloaded here: https://developer.android.com/sdk/installi
 *NOTE: replace {app.package.name} with your app's package name
   
 **Switch Config/Bootstrap URL's**  
-* For the phone/tablet version, you can switch feeds by clicking on the ActionBar
-* For the FireTV version, you can switch feeds by clicking the FF button on the remote
-* NOTE: feed switching is only enabled if LOGGING_ENABLED = true for your specific Application  
+* For the phone/tablet version, you can switch feeds by long pressing on the center of the ActionBar
+* For the FireTV version, you can switch feeds by long pressing the Play/Pause button on the remote
+* NOTE: feed switching is only enabled on non-release builds AND if the setting is_proxy_allowed = true for your specific Application  
   
 **Proxying**  
 You may find it useful to set up a proxy with a tool like Charles or Fiddler.  This will enable you to see details all of the network traffic that is occurring within the app.  
@@ -35,7 +37,7 @@ To set up proxying, you will need to have the Android SDK Tools installed on you
   "proxyPort": 8888  
 }  
   
-NOTE: Use your own values for proxyIp and proxyPort  
+NOTE: Use your own values for isProxyEnabled, proxyIp and proxyPort.  If your proxyIp address changes, isProxyEnabled = true, you will get network errors.  Also, the proxyFile is checked upon application launch, so you will need to kill and relaunch your application to see changes take effect.
   
 Here are the commands you will need to issue in a command line to push the file:  
 adb shell  
@@ -45,5 +47,3 @@ exit
 adb push ./proxyFile.json /sdcard/RatioTV/proxyFile.json  
   
 (Once you create the RatioTV folder, you won't need to make it again.  You can just re-push the file)
-  
-NOTE: Proxying will only work if LOGGING_ENABLED = true for your specific Application.  Also, the contents of the proxyFile.json are checked on each request.

@@ -45,6 +45,7 @@ Entity Relationship Diagram Basics
 [Design Guidelines](../master/pages/android/design_guidelines.md)  
 [Dev Environment Setup on Ubuntu](../master/pages/android/android_ubuntu_setup.md)  
 [RatioTV Debugging Tools](../master/pages/android/ratiotv_debugging_tools.md)  
+[RatioTVX Debugging Tools](../master/pages/android/ratiotvx_debugging_tools.md)  
 
 ### Xbox 360
 [Xbox 360 Techincal Certification Requirements (TCRs)](../master/pages/xbox360/tcrs.md)  

@@ -2,7 +2,7 @@ RatioTV Debugging Tools
 ===
 
 **Download Android SDK Tools**  
-We recommend you download the Android SDK Tools so you can have access to the logs that the app is outputting.  This will help with:  
+We recommend you download the Android SDK Tools so you can have access to the logs that the app is outputting.  We find it easier to do the whole Android Studio install rather than just installing the stand-alone tools, but it's at your discretion.  The tools will help with:  
 * Identifying any exceptions that are occurring within the app
 * Seeing the http request urls that the app is making  
 * Setting up a proxy(see instructions below)

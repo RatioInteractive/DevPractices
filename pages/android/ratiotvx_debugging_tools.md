@@ -35,7 +35,7 @@ To set up proxying, you will need to have the Android SDK Tools installed on you
   "proxyPort": 8888  
 }  
   
-NOTE: Use your own values for proxyIp and proxyPort  
+NOTE: Use your own values for isProxyEnabled, proxyIp and proxyPort.  If your proxyIp address changes, isProxyEnabled = true, you will get network errors.
   
 Here are the commands you will need to issue in a command line to push the file:  
 adb shell  

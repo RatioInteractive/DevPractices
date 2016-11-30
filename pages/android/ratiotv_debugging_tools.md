@@ -37,7 +37,10 @@ To set up proxying, you will need to have the Android SDK Tools installed on you
   "proxyPort": 8888  
 }  
   
-NOTE: Use your own values for isProxyEnabled, proxyIp and proxyPort.  If your proxyIp address changes and isProxyEnabled = true, you will get network errors.  Also, the proxyFile is checked upon application launch, so you will need to kill and relaunch your application to see changes take effect.
+NOTES: 
+* Use your own values for isProxyEnabled, proxyIp and proxyPort.  If your proxyIp address changes and isProxyEnabled = true, you will get network errors.  Also, the proxyFile is checked upon application launch, so you will need to kill and relaunch your application to see changes take effect.
+* If you are using an Android device running above 6.0, you will need to explicitly add the External Storage permission in order for proxying to work.  Go to the Application settings to enable.
+
   
 Here are the commands you will need to issue in a command line to push the file:  
 adb shell  
